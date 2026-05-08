@@ -1,14 +1,14 @@
 ---
 title: "What Can Chemical Bonding Tell Us about Photoinduced Phase Transition Reactions in Inorganic Semiconductors? Insight from Bismuth–Antimony Selenide"
 authors:
-  - anchal-vashishtha
+  - Anchal Vashishtha
   - Subila K. Balakrishnan
   - Yaniv Dror
   - Jitendra Kumar
   - P.C. Parambil
-  - me
-date: "2024-11-01T00:00:00Z"
-publishDate: "2024-11-01T00:00:00Z"
+  - Eran Edri
+date: "2024-11-01"
+publishDate: "2024-11-01"
 
 publication_types: ["article-journal"]
 

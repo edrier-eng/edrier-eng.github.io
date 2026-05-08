@@ -2,12 +2,12 @@
 title: "The Dual Role of Antimony in Enhancing the Durability of Bismuth-Based CO₂ Reduction Gas Diffusion Electrodes"
 authors:
   - Yakov Shitrit
-  - tomer-karmel
-  - sonal-rajput
-  - yaron-cohen
-  - me
-date: "2025-01-01T00:00:00Z"
-publishDate: "2025-01-01T00:00:00Z"
+  - Tomer Karmel
+  - Sonal Rajput
+  - Yaron S. Cohen
+  - Eran Edri
+date: "2025-01-01"
+publishDate: "2025-01-01"
 
 publication_types: ["article-journal"]
 

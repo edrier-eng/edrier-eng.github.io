@@ -3,16 +3,16 @@ title: "A Dual-Functional Membrane for CO₂ Capture and Electrocatalytic Reduct
 authors:
   - Sumesh Sadhujan
   - Yakov Shitrit
-  - sonal-rajput
+  - Sonal Rajput
   - Iranna Udachyan
   - Talia Friedman
   - Sharon Pevzner
   - Chetan P. Sharma
   - Christopher J. Arnusch
-  - yaron-cohen
-  - me
-date: "2025-01-01T00:00:00Z"
-publishDate: "2025-01-01T00:00:00Z"
+  - Yaron S. Cohen
+  - Eran Edri
+date: "2025-01-01"
+publishDate: "2025-01-01"
 
 publication_types: ["article-journal"]
 
