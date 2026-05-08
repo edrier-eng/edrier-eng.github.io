@@ -13,18 +13,17 @@ sections:
     id: about
     content:
       title: |
-        Research Lab for
-        **Advancing Science**
+        **Edri Lab**
       text: |
-        We are a leading research group focused on pushing the boundaries of knowledge through innovative research and collaboration. Our multidisciplinary team works on cutting-edge projects at the intersection of technology and science.
+        Materials and devices for solar energy conversion and carbon capture · Department of Chemical Engineering · Ben-Gurion University of the Negev
       primary_action:
-        text: Join Our Team
-        url: '#team'
-        icon: hero/user-group
+        text: Our Research
+        url: '/research/'
+        icon: hero/beaker
       secondary_action:
-        text: View Publications
-        url: '#publications'
-        icon: hero/academic-cap
+        text: Join the Lab
+        url: '/opportunities/'
+        icon: hero/user-group
       announcement:
         text: "We are hiring PhD students and postdocs!"
         link:
@@ -352,36 +351,29 @@ sections:
     id: contact
     content:
       title: Contact Us
-      subtitle: Get in touch with our research team
+      subtitle: "Currently on sabbatical at IREC Barcelona (2025–2026). Email is the best way to reach us."
       visit_title: Visit Our Lab
       connect_title: Connect With Us
       address:
         lines:
-          - Smith Laboratory
-          - Department of Computer Science
-          - University of Excellence
-          - 123 Science Drive
-          - Excellence City, EC 12345
-          - United States
+          - Department of Chemical Engineering
+          - Ben-Gurion University of the Negev
+          - 1 Ben-Gurion Blvd.
+          - Be'er Sheva 8410501
+          - Israel
       office_hours:
-        - "Monday - Friday: 9:00 AM - 5:00 PM"
-        - "Lab Meetings: Fridays 2:00 PM"
-      email: lab@example.edu
-      phone: "+1 (555) 123-4567"
+        - "By appointment"
+      email: edrier@bgu.ac.il
       social:
-        - icon: brands/x
-          url: https://twitter.com/SmithLabResearch
         - icon: brands/linkedin
-          url: https://linkedin.com/company/smith-lab
-        - icon: brands/github
-          url: https://github.com/smith-lab
+          url: https://www.linkedin.com/in/eran-edri-8988b64/
       prospective:
         title: Prospective Members
-        text: Interested in joining our lab? We're always looking for motivated researchers at all levels.
+        text: Interested in joining our lab? We are always looking for motivated researchers at all levels.
         button:
           text: View Open Positions
           url: /opportunities
-      map_url: https://maps.google.com/?q=University+of+Excellence
+      map_url: https://maps.google.com/?q=Ben-Gurion+University+of+the+Negev,+Be'er+Sheva,+Israel
       show_form: false
     design:
       css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
