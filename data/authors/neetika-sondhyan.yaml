@@ -1,0 +1,8 @@
+schema: hugoblox/author/v1
+slug: neetika-sondhyan
+name:
+  display: Neetika Sondhyan
+role: Former Postdoctoral Researcher
+bio: Currently a Postdoctoral Fellow at UC Santa Barbara.
+user_groups:
+  - Alumni
