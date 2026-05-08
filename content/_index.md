@@ -55,21 +55,21 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "50+"
-          description: Publications in top-tier journals
-          sub_metric: Nature, Science, Cell, PNAS
+        - statistic: "54"
+          description: Peer-reviewed publications
+          sub_metric: In journals and conference proceedings
           icon: hero/document-text
-        - statistic: "15"
-          description: Brilliant researchers and scientists
-          sub_metric: From 8 countries worldwide
+        - statistic: "8"
+          description: Current group members
+          sub_metric: MSc, PhD, postdocs & researchers
           icon: hero/user-group
-        - statistic: "$5M"
-          description: Active research funding
-          sub_metric: NSF, NIH, DOE grants
+        - statistic: "$5M+"
+          description: Competitive research grants
+          sub_metric: ISF, BSF, ERC, industry & more
           icon: hero/currency-dollar
-        - statistic: "12"
-          description: Active research projects
-          sub_metric: Across 3 major domains
+        - statistic: "3"
+          description: Active research threads
+          sub_metric: Energy, materials & electrochemistry
           icon: hero/beaker
     design:
       layout: cards
@@ -81,64 +81,56 @@ sections:
   - block: research-areas
     content:
       title: Research Focus Areas
-      subtitle: Pushing the Boundaries of Science
-      text: Our lab conducts cutting-edge research across multiple domains, combining computational methods with experimental validation
+      subtitle: Energy, Materials & Electrochemistry
+      text: We combine materials synthesis, thin-film fabrication, and electrochemical methods to develop semiconductor devices for solar energy conversion and CO₂ utilization
       items:
-        - name: Computational Biology
-          description: Developing state-of-the-art algorithms for genomic analysis, protein structure prediction, and systems biology modeling
+        - name: CO₂ Electroreduction
+          description: Designing electrode materials, interfaces, and electrochemical processes that convert CO₂ into useful fuels and chemicals using renewable electricity
           icon: hero/beaker
-          gradient: from-green-400 to-emerald-600
+          gradient: from-green-400 to-teal-600
           status: active
           topics:
-            - Genomics
-            - Proteomics
-            - Bioinformatics
-            - Systems Biology
-            - Drug Discovery
-          team_size: 12
-          publications: 45+
-          funding: $2.5M NSF/NIH
+            - Electrode Materials
+            - Electrocatalysis
+            - CO₂ Utilization
+            - Carbon Capture
+            - Electrolyzers
           cta:
             text: Explore Projects
-            url: /research/computational-biology
-            
-        - name: Machine Learning
-          description: Advancing deep learning methods for scientific discovery, with focus on interpretable AI and physics-informed neural networks
-          icon: hero/cpu-chip
-          gradient: from-purple-400 to-pink-600
+            url: /research/co2-electroreduction
+
+        - name: PV & Self-Healing Semiconductors
+          description: Investigating quasi-1D and layered semiconductor materials with intrinsic self-healing properties for SWIR solar cells and next-generation photovoltaics
+          icon: emoji/sun
+          gradient: from-yellow-400 to-orange-500
           status: active
           topics:
-            - Deep Learning
-            - Computer Vision
-            - NLP
-            - Graph Neural Networks
-            - Explainable AI
-          team_size: 8
-          publications: 32+
-          funding: $1.8M NSF
+            - Quasi-1D Materials
+            - SWIR Solar Cells
+            - Self-Healing
+            - Thin Films
+            - Defect Chemistry
           cta:
             text: View Research
-            url: /research/machine-learning
-            
-        - name: Materials Science
-          description: Designing novel materials through computational modeling and machine learning-guided discovery
+            url: /research/pv-self-healing
+
+        - name: Photoelectrochemistry & Carbon Capture
+          description: Engineering perovskite-based photoelectrodes that harvest sunlight to drive CO₂ reduction and water splitting, bridging photovoltaics with solar fuels
           icon: emoji/atom_symbol
           gradient: from-blue-400 to-indigo-600
-          status: emerging
+          status: active
           topics:
-            - Nanomaterials
-            - Quantum Materials
-            - Energy Storage
-            - Catalysis
-          team_size: 6
-          publications: 28+
-          funding: $1.2M DOE
+            - Perovskite Photoelectrodes
+            - Solar Fuels
+            - Water Splitting
+            - Light-Driven CO₂ Reduction
+            - Interface Engineering
           cta:
             text: Learn More
-            url: /research/materials-science
+            url: /research/photoelectrochemistry
       cta:
         text: Active Research Projects
-        url: /#research
+        url: /#projects
         icon: hero/arrow-right
     design:
       layout: cards

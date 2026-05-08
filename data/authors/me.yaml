@@ -2,70 +2,36 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Prof. Jane Smith
-role: Principal Investigator & Lab Director
-bio: Leading research in computational biology and machine learning applications to scientific discovery.
+  display: Prof. Eran Edri
+role: Associate Professor & Research Group Director
+bio: >
+  Associate Professor at the Department of Chemical Engineering, Ben-Gurion
+  University of the Negev. Our research focuses on the science and engineering
+  of thin-film semiconductor materials and interfaces for solar energy
+  conversion, photoelectrochemistry, and electrochemical CO₂ reduction. We
+  investigate defect chemistry, self-healing phenomena, and light–matter
+  interactions in emerging photovoltaic materials toward practical carbon-capture
+  and clean-energy technologies.
 affiliations:
-  - name: University of Excellence
-    url: https://www.example.edu/
+  - name: Department of Chemical Engineering, Ben-Gurion University of the Negev
+    url: https://in.bgu.ac.il/engn/che/Pages/default.aspx
 links:
   - icon: hero/envelope
-    url: mailto:jane.smith@example.edu
-  - icon: brands/x
-    url: https://twitter.com/ProfJaneSmith
-    label: Follow me on Twitter
+    url: mailto:edrier@bgu.ac.il
   - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=XXXXXXX
-  - icon: brands/github
-    url: https://github.com/jane-smith-lab
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/prof-jane-smith
+    url: https://scholar.google.com/citations?user=EmWBg_IAAAAJ
   - icon: brands/orcid
-    url: https://orcid.org/0000-0000-0000-0000
-  - icon: brands/cv
-    url: uploads/cv-jane-smith.pdf
+    url: https://orcid.org/0000-0003-4593-6489
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/eran-edri-8988b64/
+  - icon: brands/github
+    url: https://github.com/edrier-eng
 interests:
-  - Machine Learning & AI
-  - Computational Biology
-  - Drug Discovery
-  - Scientific Computing
-  - Open Science
-education:
-  - degree: PhD in Computational Biology
-    institution: Stanford University
-    end: "2012-01-01"
-  - degree: MS in Computer Science
-    institution: MIT
-    end: "2008-01-01"
-  - degree: BS in Bioinformatics
-    institution: UC Berkeley
-    end: "2006-01-01"
-skills:
-  - name: Technical
-    items:
-      - label: Python
-        level: 5
-        icon: devicon/python
-      - label: Machine Learning
-        level: 5
-        icon: hero/chart-line
-      - label: Data Science
-        level: 5
-        icon: hero/database
-  - name: Leadership
-    color: "#eeac02"
-    color_border: "#f0bf23"
-    items:
-      - label: Team Management
-        level: 5
-        icon: hero/user-group
-      - label: Grant Writing
-        level: 5
-        icon: hero/document-text
-      - label: Mentoring
-        level: 5
-        icon: hero/academic-cap
+  - CO₂ Electroreduction
+  - PV & Self-Healing Semiconductors
+  - Photoelectrochemistry
+  - Carbon Capture
 highlight_name: true
-website: ""
+website: "https://edrilab.com"
 user_groups:
   - Principal Investigators
