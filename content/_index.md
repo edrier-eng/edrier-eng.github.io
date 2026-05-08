@@ -196,7 +196,7 @@ sections:
       text: ''
       filters:
         folders:
-          - publications
+          - publication
         exclude_featured: false
       count: 5
     design:
@@ -208,7 +208,7 @@ sections:
       title: Featured Research
       filters:
         folders:
-          - publications
+          - publication
         featured_only: true
     design:
       view: article-grid
