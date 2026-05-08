@@ -178,6 +178,12 @@
   },
   "active": "9ccc4b2e848396b0",
   "lastOpenFiles": [
+    "content/blog/irec-sabbatical-2025/index.md",
+    "content/blog/irec-sabbatical-2025",
+    "content/blog/ecatmem-chemsuschem-2025/index.md",
+    "content/blog/ecatmem-chemsuschem-2025",
+    "content/blog/small-structures-2025/index.md",
+    "content/blog/small-structures-2025",
     "content/publications/chemsuschem-2025/index.md",
     "content/publications/chemsuschem-2025",
     "content/publications/inorgchem-2024/index.md",
@@ -188,9 +194,6 @@
     "data/authors/yaron-cohen.yaml",
     "data/authors/anchal-vashishtha.yaml",
     "data/authors/nir-yufovich.yaml",
-    "data/authors/amit-delbaha.yaml",
-    "data/authors/adi-liber.yaml",
-    "data/authors/adi-rosenfeld.yaml",
     "content/research/photoelectrochemistry/index.md",
     "content/research/pv-self-healing/index.md",
     "content/research/co2-electroreduction/index.md"

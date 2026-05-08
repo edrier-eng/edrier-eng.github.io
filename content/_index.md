@@ -140,31 +140,21 @@ sections:
   - block: cta-image-paragraph
     content:
       items:
-        - title: 'State-of-the-Art Research Environment'
+        - title: 'A Collaborative Research Environment'
           text: |
-            Our laboratory features cutting-edge equipment and modern research facilities designed to support breakthrough discoveries. From advanced computational clusters to precision instrumentation, we provide our researchers with the tools they need to push the boundaries of science.
+            Our lab combines materials chemistry, electrochemistry, and device physics in a single 120 m² facility at BGU. From ALD and thermal evaporation to CO₂ electrolyzers and FTIR spectroscopy, researchers have direct access to the tools they need — without waiting for shared facilities.
           image: pexels-polina-tankilevitch-3735769.jpg
-          feature_icon: hero/check-circle
-          features:
-            - 'High-Performance Computing: 500+ core GPU cluster for AI/ML research'
-            - 'Advanced Instrumentation: Precision equipment for materials characterization'
-            - 'Safety & Compliance: Full safety protocols and regulatory compliance'
           button:
-            text: 'Virtual Lab Tour'
-            url: '/facilities'
+            text: 'Explore Our Facilities'
+            url: '/facilities/'
 
-        - title: 'Collaborative Innovation Culture' 
+        - title: 'Research That Matters'
           text: |
-            Breakthrough research happens through collaboration. Our open lab environment fosters cross-disciplinary partnerships, knowledge sharing, and mentorship between senior researchers and emerging scientists. Every team member contributes to our collective mission of advancing scientific understanding.
+            We work on problems where the science is hard and the impact is real — from self-healing solar cells to carbon capture membranes. Group members publish in high-impact journals, present at international conferences, and go on to positions in academia and industry worldwide.
           image: pexels-canvastudio-3153198.jpg
-          feature_icon: hero/users
-          features:
-            - 'Cross-Disciplinary Teams: Biologists, engineers, and computer scientists working together'
-            - 'Knowledge Sharing: Weekly seminars and collaborative research meetings'
-            - 'Mentorship Program: Structured guidance for PhD students and postdocs'
           button:
-            text: 'Join Our Community'
-            url: '/opportunities'
+            text: 'See Open Positions'
+            url: '/opportunities/'
     design:
       css_class: "bg-white dark:bg-gray-800"
       spacing:
@@ -223,6 +213,21 @@ sections:
     design:
       view: article-grid
       columns: 2
+
+  - block: collection
+    id: news
+    content:
+      title: Lab News
+      page_type: blog
+      count: 3
+      filters:
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      order: desc
+    design:
+      view: card
+      columns: 1
 
   - block: logos
     content:
