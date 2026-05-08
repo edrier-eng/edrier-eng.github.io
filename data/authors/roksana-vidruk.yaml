@@ -1,0 +1,10 @@
+schema: hugoblox/author/v1
+slug: roksana-vidruk
+name:
+  display: Roksana Vidruk
+role: Lab Administrator
+links:
+  - icon: hero/envelope
+    url: mailto:vidruk@post.bgu.ac.il
+user_groups:
+  - Staff

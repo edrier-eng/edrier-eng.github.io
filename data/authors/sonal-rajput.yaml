@@ -1,0 +1,16 @@
+schema: hugoblox/author/v1
+slug: sonal-rajput
+name:
+  display: Sonal Rajput
+role: PhD Student
+affiliations:
+  - name: Department of Chemical Engineering, Ben-Gurion University of the Negev
+links:
+  - icon: hero/envelope
+    url: mailto:rajput@post.bgu.ac.il
+interests:
+  - CO₂ Electroreduction
+  - Electrocatalytic Membranes
+  - Bismuth Catalysts
+user_groups:
+  - PhD Students

@@ -178,11 +178,21 @@
   },
   "active": "9ccc4b2e848396b0",
   "lastOpenFiles": [
+    "content/publications/chemsuschem-2025/index.md",
+    "content/publications/chemsuschem-2025",
+    "content/publications/inorgchem-2024/index.md",
+    "content/publications/inorgchem-2024",
+    "content/publications/small-structures-2025/index.md",
+    "content/publications/small-structures-2025",
+    "data/authors/roksana-vidruk.yaml",
+    "data/authors/yaron-cohen.yaml",
+    "data/authors/anchal-vashishtha.yaml",
+    "data/authors/nir-yufovich.yaml",
+    "data/authors/amit-delbaha.yaml",
+    "data/authors/adi-liber.yaml",
+    "data/authors/adi-rosenfeld.yaml",
     "content/research/photoelectrochemistry/index.md",
-    "content/research/photoelectrochemistry",
     "content/research/pv-self-healing/index.md",
-    "content/research/pv-self-healing",
-    "content/research/co2-electroreduction/index.md",
-    "content/research/co2-electroreduction"
+    "content/research/co2-electroreduction/index.md"
   ]
 }

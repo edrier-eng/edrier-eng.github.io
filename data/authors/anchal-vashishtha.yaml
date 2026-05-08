@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: anchal-vashishtha
+name:
+  display: Anchal Vashishtha
+role: Postdoctoral Researcher
+interests:
+  - Photoinduced Phase Transitions
+  - Antimony Chalcogenides
+  - CO₂-to-Methanol Electrocatalysis
+user_groups:
+  - Postdoctoral Researchers

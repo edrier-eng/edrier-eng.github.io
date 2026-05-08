@@ -1,0 +1,13 @@
+schema: hugoblox/author/v1
+slug: tomer-karmel
+name:
+  display: Tomer Karmel
+role: MSc Student
+links:
+  - icon: hero/envelope
+    url: mailto:karmelt@post.bgu.ac.il
+interests:
+  - CO₂ Electroreduction
+  - Bimetallic Electrocatalysts
+user_groups:
+  - MSc Students

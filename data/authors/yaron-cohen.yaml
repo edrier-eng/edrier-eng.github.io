@@ -1,0 +1,14 @@
+schema: hugoblox/author/v1
+slug: yaron-cohen
+name:
+  display: Yaron S. Cohen
+role: Research Associate
+links:
+  - icon: hero/envelope
+    url: mailto:yaroncs@gmail.com
+interests:
+  - CO₂ Electroreduction
+  - Bismuth Electrodeposition
+  - Gas Diffusion Electrodes
+user_groups:
+  - Research Associates

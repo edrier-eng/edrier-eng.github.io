@@ -1,0 +1,14 @@
+schema: hugoblox/author/v1
+slug: adi-rosenfeld
+name:
+  display: Adi Rosenfeld
+role: MSc Student
+links:
+  - icon: hero/envelope
+    url: mailto:rosenfad@post.bgu.ac.il
+interests:
+  - Perovskite Solar Cells
+  - Photoelectrodes
+  - CO₂ Reduction
+user_groups:
+  - MSc Students

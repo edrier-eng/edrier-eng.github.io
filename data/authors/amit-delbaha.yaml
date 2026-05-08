@@ -1,0 +1,14 @@
+schema: hugoblox/author/v1
+slug: amit-delbaha
+name:
+  display: Amit Delbaha
+role: MSc Student
+links:
+  - icon: hero/envelope
+    url: mailto:dalbaha@post.bgu.ac.il
+interests:
+  - CO₂ Electroreduction
+  - Electrocatalyst Stability
+  - Bismuth Selenide
+user_groups:
+  - MSc Students

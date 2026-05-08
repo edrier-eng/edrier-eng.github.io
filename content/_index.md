@@ -129,7 +129,7 @@ sections:
             url: /research/photoelectrochemistry
       cta:
         text: Active Research Projects
-        url: /#projects
+        url: /research/
         icon: hero/arrow-right
     design:
       layout: cards
@@ -180,6 +180,8 @@ sections:
         - Principal Investigators
         - Postdoctoral Researchers
         - PhD Students
+        - MSc Students
+        - Research Associates
       sort_by: 'Params.last_name'
       sort_ascending: true
       cta:
@@ -196,33 +198,6 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["3rem", 0, "3rem", 0]
-
-  - block: collection
-    id: projects
-    content:
-      title: Active Research Projects
-      subtitle: ''
-      text: ''
-      filters:
-        folders:
-          - projects
-      count: 0  # Number of items to show (0 = all)
-      # Default filter UI (for future release)
-      #default_button_index: 0
-      # Filter toolbar (optional)
-      # Add or remove as many filters as you like
-    #   buttons:
-    #     - name: All
-    #       tag: '*'
-    #     - name: Machine Learning
-    #       tag: ML
-    #     - name: Biology
-    #       tag: Biology
-    #     - name: Materials
-    #       tag: Materials
-    design:
-      view: article-grid
-      columns: 2
 
   - block: collection
     id: publications
@@ -249,97 +224,29 @@ sections:
       view: article-grid
       columns: 2
 
-  - block: collection
-    id: events
-    content:
-      title: Events
-      subtitle: Join Us for Research Presentations & Seminars
-      text: Stay connected with our research community through talks, workshops, and collaborative events
-      filters:
-        folders:
-          - events
-        exclude_past: false  # Show both past and future events
-      count: 3
-      sort_by: Date
-      sort_ascending: false
-    design:
-      view: card
-      # columns: 3
-      show_date: true
-      show_read_time: false
-      show_read_more: true
-      css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900"
-      spacing:
-        padding: ["4rem", 0, "4rem", 0]
-
-  - block: collection
-    id: news
-    content:
-      title: Lab News & Updates
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 3
-      # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: card
-      columns: 1
-
   - block: logos
     content:
-      title: Collaborators & Partners
-      subtitle: Leading the way together
-      text: We work with top universities, research institutes, and industry leaders to advance scientific discovery
+      title: Our Funders
+      subtitle: We are grateful to our funders for supporting our research.
       logos:
-        - name: MIT
-          image: partners/placeholder-logo.svg
-          url: https://mit.edu
+        - name: Israel Science Foundation
+          url: https://www.isf.org.il
           external: true
-          description: Massachusetts Institute of Technology
-        - name: Stanford University
-          image: partners/placeholder-logo.svg
-          url: https://stanford.edu
+        - name: Israel Ministry of Energy
+          url: https://www.gov.il/en/departments/ministry_of_energy
           external: true
-          description: Stanford Research Collaboration
-        - name: Google Research
-          image: partners/placeholder-logo.svg
-          url: https://research.google
+        - name: Innovation Authority
+          url: https://innovationisrael.org.il/en/
           external: true
-          description: AI & Machine Learning Partnership
-        - name: National Science Foundation
-          image: partners/placeholder-logo.svg
-          url: https://nsf.gov
+        - name: Israel National Institute for Energy Storage
+          url: https://ines.org.il
           external: true
-          description: Research Funding Partner
-        - name: Microsoft Research
-          image: partners/placeholder-logo.svg
-          url: https://www.microsoft.com/research
+        - name: National Solar Energy Conversion Research Center
+          url: https://www.bgu.ac.il
           external: true
-          description: Computing Research Collaboration
-        - name: NIH
-          image: partners/placeholder-logo.svg
-          url: https://nih.gov
+        - name: Blechner Center for Industrial Catalysis
+          url: https://in.bgu.ac.il/blechner
           external: true
-          description: National Institutes of Health
-      cta:
-        text: Become a Partner
-        url: /#contact
-        icon: hero/user-plus
     design:
       display_mode: grid
       show_pattern: false

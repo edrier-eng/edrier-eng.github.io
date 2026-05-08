@@ -1,0 +1,14 @@
+schema: hugoblox/author/v1
+slug: adi-liber
+name:
+  display: Adi Liber
+role: MSc Student
+links:
+  - icon: hero/envelope
+    url: mailto:adi.liber@post.bgu.ac.il
+interests:
+  - ALD
+  - Membrane Engineering
+  - Water Treatment
+user_groups:
+  - MSc Students
