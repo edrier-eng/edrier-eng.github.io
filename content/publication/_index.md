@@ -3,6 +3,8 @@ title: Publications
 type: page
 ---
 
+[→ Full list with citation metrics on Google Scholar](https://scholar.google.com/citations?user=EmWBg_IAAAAJ)
+
 ## 2026
 
 - [The Dual Role of Antimony in Enhancing the Durability of Bismuth-Based CO₂ Reduction Gas Diffusion Electrodes](/publication/shitrit-2026-dual/) — Shitrit, Karmel, Pachmanov Dvir, Rubinstein, Arazi, Maman, Caspary Toroker, Udachyan, Cohen & Edri — *Small Structures* 7(1)
@@ -168,7 +170,3 @@ type: page
 ## 2008
 
 - [pH Effects on BSA-Dispersed Carbon Nanotubes Studied by Spectroscopy-Enhanced Composition Evaluation Techniques](/publication/edri-2008-ph/) — Edri & Regev — *Analytical Chemistry* 80(11)
-
----
-
-[→ Full list with citation metrics on Google Scholar](https://scholar.google.com/citations?user=EmWBg_IAAAAJ)
