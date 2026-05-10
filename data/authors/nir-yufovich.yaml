@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: nir-yufovich
 name:
   display: Nir Yufe
-role: MSc Student
+role: Undergraduate Student (Research Project)
 links:
   - icon: hero/envelope
     url: mailto:niryuf@bgu.ac.il
@@ -10,4 +10,4 @@ interests:
   - CO₂ Electroreduction
   - Formate-to-Methanol Conversion
 user_groups:
-  - MSc Students
+  - Undergraduate Students

@@ -1,14 +1,11 @@
 schema: hugoblox/author/v1
-slug: yaron-cohen
+slug: yakov-shitrit
 name:
-  display: Dr. Yaron S. Cohen
+  display: Dr. Yakov Shitrit
 role: Research Associate
-links:
-  - icon: hero/envelope
-    url: mailto:yaroncs@gmail.com
 interests:
   - CO₂ Electroreduction
-  - Bismuth Electrodeposition
+  - Bismuth-Based Electrocatalysts
   - Gas Diffusion Electrodes
 user_groups:
   - Research Associates

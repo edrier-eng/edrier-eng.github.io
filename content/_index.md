@@ -15,7 +15,9 @@ sections:
       title: |
         **Edri Lab**
       text: |
-        Materials and devices for solar energy conversion and carbon capture · Department of Chemical Engineering · Ben-Gurion University of the Negev
+        Materials and devices for solar energy conversion, carbon capture, and utilization.
+
+        Department of Chemical Engineering · Ben-Gurion University of the Negev
       primary_action:
         text: Our Research
         url: '/research/'
@@ -142,15 +144,15 @@ sections:
       items:
         - title: 'A Collaborative Research Environment'
           text: |
-            Our lab combines materials chemistry, electrochemistry, and device physics in a single 120 m² facility at BGU. From ALD and thermal evaporation to CO₂ electrolyzers and FTIR spectroscopy, researchers have direct access to the tools they need — without waiting for shared facilities.
+            Our lab combines materials chemistry, electrochemistry, and device physics in a single 120 m² facility at BGU. From ALD and thermal evaporation to CO₂ electrolyzers and FTIR spectroscopy, researchers have direct in-house access to the tools they need, complemented by priority access to the IKI Center for Nanoscience and Nanotechnology at BGU.
           image: pexels-polina-tankilevitch-3735769.jpg
           button:
             text: 'Explore Our Facilities'
             url: '/facilities/'
 
-        - title: 'Research That Matters'
+        - title: 'Graduate Training & Research'
           text: |
-            We work on problems where the science is hard and the impact is real — from self-healing solar cells to carbon capture membranes. Group members publish in high-impact journals, present at international conferences, and go on to positions in academia and industry worldwide.
+            Group members work on open questions in solar energy conversion and CO₂ utilization — from self-healing semiconductors to electrocatalytic membranes. Alumni have continued to postdoctoral, faculty, and industry positions worldwide.
           image: pexels-canvastudio-3153198.jpg
           button:
             text: 'See Open Positions'
@@ -164,14 +166,15 @@ sections:
     id: team
     content:
       title: Meet Our Team
-      subtitle: 'World-class researchers pushing the boundaries of science'
-      text: 'Our diverse team of researchers brings together expertise from multiple disciplines to tackle the most challenging problems in computational biology and machine learning.'
+      subtitle: ''
+      text: 'Our group brings together students and researchers with backgrounds in chemical engineering, chemistry, physics, and materials science.'
       user_groups:
         - Principal Investigators
         - Postdoctoral Researchers
+        - Research Associates
         - PhD Students
         - MSc Students
-        - Research Associates
+        - Undergraduate Students
       sort_by: 'Params.last_name'
       sort_ascending: true
       cta:
@@ -229,33 +232,13 @@ sections:
       view: card
       columns: 1
 
-  - block: logos
+  - block: markdown
     content:
       title: Our Funders
-      subtitle: We are grateful to our funders for supporting our research.
-      logos:
-        - name: Israel Science Foundation
-          url: https://www.isf.org.il
-          external: true
-        - name: Israel Ministry of Energy
-          url: https://www.gov.il/en/departments/ministry_of_energy
-          external: true
-        - name: Innovation Authority
-          url: https://innovationisrael.org.il/en/
-          external: true
-        - name: Israel National Institute for Energy Storage
-          url: https://ines.org.il
-          external: true
-        - name: National Solar Energy Conversion Research Center
-          url: https://www.bgu.ac.il
-          external: true
-        - name: Blechner Center for Industrial Catalysis
-          url: https://in.bgu.ac.il/blechner
-          external: true
+      text: |
+        We gratefully acknowledge research funding from the [Israel Science Foundation (ISF)](https://www.isf.org.il), [Israel Ministry of Energy](https://www.gov.il/en/departments/ministry_of_energy), [Israel Innovation Authority](https://innovationisrael.org.il/en/), [Israel National Institute for Energy Storage (INES)](https://ines.org.il), the National Solar Energy Conversion Research Center, and the [Blechner Center for Industrial Catalysis and Process Development](https://in.bgu.ac.il/blechner) at BGU.
     design:
-      display_mode: grid
-      show_pattern: false
-      css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900"
+      css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900 text-center"
       spacing:
         padding: ["4rem", 0, "4rem", 0]
 
@@ -263,7 +246,7 @@ sections:
     id: contact
     content:
       title: Contact Us
-      subtitle: "Currently on sabbatical at IREC Barcelona (2025–2026). Email is the best way to reach us."
+      subtitle: "Email is the best way to reach us."
       visit_title: Visit Our Lab
       connect_title: Connect With Us
       address:

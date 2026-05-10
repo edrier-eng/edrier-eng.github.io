@@ -1,0 +1,12 @@
+schema: hugoblox/author/v1
+slug: tamar-friedman
+name:
+  display: Tamar Friedman
+role: Undergraduate Student (Research Project)
+bio: Joint research project with Prof. Rachel Yerushalmi-Rosen.
+interests:
+  - CNC Self-Assembly
+  - Optical Coatings
+  - ALD
+user_groups:
+  - Undergraduate Students

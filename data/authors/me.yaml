@@ -2,7 +2,7 @@ schema: "hugoblox/author/v1"
 slug: "me"
 is_owner: true
 name:
-  display: "edrilab.com"
+  display: "Eran Edri"
 role: "Associate Professor & Research Group Director"
 bio: "Associate Professor at the Department of Chemical Engineering, Ben-Gurion University of the Negev. Our research focuses on the science and engineering of thin-film semiconductor materials and interfaces for solar energy conversion, photoelectrochemistry, and electrochemical CO₂ reduction. We investigate defect chemistry, self-healing phenomena, and light–matter interactions in emerging photovoltaic materials toward practical carbon-capture and clean-energy technologies.\n"
 affiliations:
