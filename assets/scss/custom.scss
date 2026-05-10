@@ -1,0 +1,17 @@
+// Edri Lab — custom typography overrides
+// Landing page blocks (hero, stats, research-areas, etc.) use md sizing from params.
+// Regular content pages (publications, research, facilities, etc.) use .prose for body text.
+// We scale .prose down slightly so content pages feel tighter than the landing page.
+
+.prose {
+  font-size: 0.9rem;
+  line-height: 1.75;
+}
+
+.prose h2 {
+  font-size: 1.25rem;
+}
+
+.prose h3 {
+  font-size: 1.1rem;
+}

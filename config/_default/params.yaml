@@ -61,7 +61,7 @@ hugoblox:
     # Font: 'sans' (Inter), 'serif' (Roboto Slab), or 'native' (system fonts)
     font: "serif"
     # Size: 'sm', 'md', 'lg', or 'xl' (affects base font size and scale)
-    size: "sm"
+    size: "md"
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
