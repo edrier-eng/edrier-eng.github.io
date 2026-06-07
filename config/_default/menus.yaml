@@ -12,7 +12,7 @@ main:
     weight: 20
   - name: Facilities
     url: '/facilities'
-    weight: 25
+    weight: 50
   - name: Team
     url: '/authors/'
     weight: 30
