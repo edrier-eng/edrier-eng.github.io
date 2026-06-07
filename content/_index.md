@@ -51,7 +51,7 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "13"
+        - statistic: "10"
           description: Active members
           sub_metric: Students & researchers, all levels
           icon: hero/user-group
@@ -59,10 +59,6 @@ sections:
           description: Alumni
           sub_metric: Including 2 high-school researchers
           icon: hero/academic-cap
-        - statistic: "1"
-          description: Science outreach
-          sub_metric: Community activities, and growing
-          icon: hero/megaphone
         - statistic: "100%"
           description: Proud of our people
           sub_metric: Every level, every project
