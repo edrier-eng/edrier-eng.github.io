@@ -23,3 +23,10 @@
 .prose:has(ol li:nth-child(8)) {
   max-width: none;
 }
+
+// Team page (/authors): hide the role-group sub-headings (e.g. "Principal Investigators").
+// Group labels are plain-text headings; person-name headings are links — so :not(:has(a))
+// targets only the group labels. Each card already shows the person's role.
+#team h3:not(:has(a)) {
+  display: none;
+}
