@@ -156,12 +156,12 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Recent Publications
+      title: Selected Publications
       text: ''
       filters:
         folders:
           - publication
-        exclude_featured: false
+        featured_only: true
       count: 5
     design:
       view: citation

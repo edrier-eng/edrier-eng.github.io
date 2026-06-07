@@ -16,7 +16,10 @@
   font-size: 1.1rem;
 }
 
-// Publications page: tighter list text
+// Publications page: readable list text + use the full content width (long reference list)
 .prose ol li {
-  font-size: 0.6875rem;
+  font-size: 0.85rem;
+}
+.prose:has(ol li:nth-child(8)) {
+  max-width: none;
 }

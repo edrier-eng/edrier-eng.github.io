@@ -10,4 +10,5 @@ publishDate: '2026-05-10T17:15:17.169071Z'
 publication_types:
 - article-journal
 publication: '*Chemistry of Materials*'
+featured: true
 ---
