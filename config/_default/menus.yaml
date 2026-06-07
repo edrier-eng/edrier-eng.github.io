@@ -14,7 +14,7 @@ main:
     url: '/facilities'
     weight: 25
   - name: Team
-    url: '/#team'
+    url: '/authors/'
     weight: 30
   - name: Publications
     url: '/publication/'

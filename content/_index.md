@@ -153,36 +153,6 @@ sections:
       spacing:
         padding: ["4rem", 0, "4rem", 0]
 
-  - block: team-showcase
-    id: team
-    content:
-      title: Meet Our Team
-      subtitle: ''
-      text: 'Our group brings together students and researchers with backgrounds in chemical engineering, chemistry, physics, and materials science.'
-      user_groups:
-        - Principal Investigators
-        - Postdoctoral Researchers
-        - Research Associates
-        - PhD Students
-        - MSc Students
-        - Undergraduate Students
-      sort_by: 'Params.last_name'
-      sort_ascending: true
-      cta:
-        text: View All Team Members
-        url: /authors
-        icon: user-group
-    design:
-      show_role: true
-      show_organizations: false
-      show_interests: true
-      show_social: true
-      # Section background color
-      css_class: "bg-gray-50 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: ["3rem", 0, "3rem", 0]
-
   - block: collection
     id: publications
     content:
