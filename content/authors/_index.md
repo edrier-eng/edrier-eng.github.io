@@ -6,8 +6,9 @@ cms_exclude: true
 sections:
   - block: markdown
     content:
-      title: 'Meet the Team'
       text: |
+        # Meet the Team
+
         Our lab brings together students and researchers from diverse backgrounds — chemical engineering, chemistry, physics, and materials science — united by a shared interest in materials and devices for solar energy conversion, carbon capture, and CO₂ utilization.
     design:
       spacing:
@@ -16,7 +17,7 @@ sections:
   - block: team-showcase
     id: team
     content:
-      title: Meet Our Team
+      title: ''
       subtitle: ''
       text: ''
       user_groups:
