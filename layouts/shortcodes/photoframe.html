@@ -1,6 +1,6 @@
 {{- /* Auto-rotating photo frame: cycles every JPG in assets/media/group/ */ -}}
 {{- $imgs := sort (resources.Match "media/group/*.jpg") "Name" -}}
-{{- $id := printf "pf-%d" now.UnixNano -}}
+{{- $id := "photoframe" -}}
 {{- if $imgs }}
 <div id="{{ $id }}" style="position:relative;max-width:900px;margin:2rem auto;aspect-ratio:16/9;overflow:hidden;border-radius:12px;background:#000;">
 {{- range $i, $img := $imgs }}
