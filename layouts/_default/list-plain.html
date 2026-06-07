@@ -1,0 +1,10 @@
+{{- /* Plain list page: renders only the page's own content (no auto-listed child cards).
+       Scoped to pages that set `layout: list-plain` in front matter (currently /publication/). */ -}}
+{{ define "main" }}
+<div style="max-width:1200px;margin:0 auto;padding:2.5rem 1rem;">
+  <h1 style="font-size:2rem;font-weight:700;margin-bottom:1.5rem;">{{ .Title }}</h1>
+  <article class="prose dark:prose-invert">
+    {{ .Content }}
+  </article>
+</div>
+{{ end }}

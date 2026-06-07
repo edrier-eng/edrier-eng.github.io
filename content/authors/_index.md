@@ -4,22 +4,12 @@ type: landing
 cms_exclude: true
 
 sections:
-  - block: markdown
-    content:
-      text: |
-        # Meet the Team
-
-        Our lab brings together students and researchers from diverse backgrounds — chemical engineering, chemistry, physics, and materials science — united by a shared interest in materials and devices for solar energy conversion, carbon capture, and CO₂ utilization.
-    design:
-      spacing:
-        padding: ['4rem', 0, '1rem', 0]
-
   - block: team-showcase
     id: team
     content:
-      title: ''
+      title: 'Meet the Team'
       subtitle: ''
-      text: ''
+      text: 'Our lab brings together students and researchers from diverse backgrounds — chemical engineering, chemistry, physics, and materials science — united by a shared interest in materials and devices for solar energy conversion, carbon capture, and CO₂ utilization.'
       user_groups:
         - Principal Investigators
         - Postdoctoral Researchers
@@ -36,7 +26,7 @@ sections:
       show_social: true
       css_class: ''
       spacing:
-        padding: ['1rem', 0, '2rem', 0]
+        padding: ['4rem', 0, '2rem', 0]
 
   - block: photoframe
     content:
