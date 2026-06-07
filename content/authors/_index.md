@@ -19,6 +19,8 @@ banner:
 
 Our lab brings together talented researchers from diverse backgrounds, united by a shared passion for advancing science through computational methods. We foster a collaborative environment where innovation thrives and each team member contributes their unique expertise to our collective mission.
 
+{{< photoframe >}}
+
 ## Team Structure
 
 - **Principal Investigators**: Leading research vision and strategy
