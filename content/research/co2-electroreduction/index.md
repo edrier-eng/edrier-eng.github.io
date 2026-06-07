@@ -28,4 +28,4 @@ Electrochemical reduction of CO₂ (CO₂RR) offers a pathway to close the carbo
 ## Selected Collaborations
 
 - IREC – Catalonia Institute for Energy Research, Barcelona
-- ISF and BSF funded programs in CO₂ electrochemistry
+- ISF-funded programs in CO₂ electrochemistry

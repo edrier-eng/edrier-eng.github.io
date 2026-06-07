@@ -26,11 +26,6 @@ sections:
         text: Join the Lab
         url: '/opportunities/'
         icon: hero/user-group
-      announcement:
-        text: "We are hiring PhD students and postdocs!"
-        link:
-          text: "Apply now"
-          url: "/opportunities"
     design:
       # For full-screen, add `min-h-screen` below
       css_class: ""
@@ -56,22 +51,22 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "54"
-          description: Peer-reviewed publications
-          sub_metric: In journals and conference proceedings
-          icon: hero/document-text
-        - statistic: "8"
-          description: Current group members
-          sub_metric: MSc, PhD, postdocs & researchers
+        - statistic: "13"
+          description: Active members
+          sub_metric: Students & researchers, all levels
           icon: hero/user-group
-        - statistic: "$5M+"
-          description: Competitive research grants
-          sub_metric: ISF, BSF, ERC, industry & more
-          icon: hero/currency-dollar
-        - statistic: "3"
-          description: Active research threads
-          sub_metric: Energy, materials & electrochemistry
-          icon: hero/beaker
+        - statistic: "20"
+          description: Alumni
+          sub_metric: Including 2 high-school researchers
+          icon: hero/academic-cap
+        - statistic: "1"
+          description: Science outreach
+          sub_metric: Community activities, and growing
+          icon: hero/megaphone
+        - statistic: "100%"
+          description: Proud of our people
+          sub_metric: Every level, every project
+          icon: hero/heart
     design:
       layout: cards
       # Section background color (CSS class)
@@ -264,7 +259,7 @@ sections:
           url: https://www.linkedin.com/in/eran-edri-8988b64/
       prospective:
         title: Prospective Members
-        text: Interested in joining our lab? We are always looking for motivated researchers at all levels.
+        text: We welcome inquiries from prospective PhD students, and from BGU Chemical Engineering undergraduates interested in research.
         button:
           text: View Open Positions
           url: /opportunities
@@ -274,17 +269,4 @@ sections:
       css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
       spacing:
         padding: ["5rem", 0, "5rem", 0]
-
-  - block: cta-card
-    content:
-      title: Join Our Research Team
-      text: We are always looking for talented and motivated researchers to join our lab. We have openings for PhD students, postdoctoral researchers, and research scientists.
-      button:
-        text: View Open Positions
-        url: /opportunities
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: 'bg-primary-300 dark:bg-primary-700'
-        css_style: ''
 ---

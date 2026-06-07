@@ -170,3 +170,11 @@ type: page
 ## 2008
 
 52. Edri, E.; Regev, O. pH Effects on BSA-Dispersed Carbon Nanotubes Studied by Spectroscopy-Enhanced Composition Evaluation Techniques. *Anal. Chem.* **2008**, *80* (11), 4049–4054.
+
+---
+
+## Patents
+
+P1. Hodes, G.; Edri, E.; Rabinovich, E. *Photovoltaic Cell and Method of Its Manufacture.* (2012–2013).
+
+P2. Nir, O.; Edri, E.; Wormser, E. *Cation-Exchange Membrane with Improved Monovalent Selectivity, Manufacturing and Uses Thereof in Electrodialysis.* (2023).
