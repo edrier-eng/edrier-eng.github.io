@@ -15,17 +15,8 @@ Electrochemical reduction of CO₂ (CO₂RR) offers a pathway to close the carbo
 
 **Electrode and interface engineering.** The interface between catalyst, electrolyte, and CO₂ supply is a critical bottleneck in CO₂RR. We design gas-diffusion electrode architectures and study how local pH, CO₂ concentration, and ion transport influence reaction pathways and product distribution.
 
-**Coupled CO₂ capture and conversion.** We explore strategies to integrate CO₂ capture directly with electrochemical conversion, reducing the energetic penalty of separate capture-and-release cycles. This includes work on amine-functionalized and carbonate-based electrolytes that carry CO₂ directly to the cathode.
+**Coupled CO₂ capture and conversion.** We integrate CO₂ capture directly with electrochemical conversion to avoid the energy lost in separate capture-and-release cycles. This is the basis of our eCatMem concept — a dual-functional membrane that performs CO₂ capture and electrocatalytic reduction within a single membrane-electrode assembly (Sadhujan et al., *ChemSusChem* 2025).
 
-## Methods
+## Why It Matters
 
-- Thin-film deposition (sputtering, electrodeposition, ALD)
-- Electrochemical characterization (CV, EIS, chronoamperometry)
-- Gas-phase product analysis (GC, online MS)
-- In-situ/operando Raman and IR spectroscopy
-- SEM, TEM, XPS, XRD
-
-## Selected Collaborations
-
-- IREC – Catalonia Institute for Energy Research, Barcelona
-- ISF-funded programs in CO₂ electrochemistry
+CO₂ electroreduction offers a route to store renewable electricity in carbon-neutral fuels and chemicals, and to close the carbon cycle by turning captured CO₂ back into useful feedstocks. Our work targets the selectivity, efficiency, and durability gaps that stand between laboratory demonstrations and practical electrolyzers.

@@ -107,16 +107,16 @@ sections:
             url: /research/pv-self-healing
 
         - name: Photoelectrochemistry & Carbon Capture
-          description: Engineering perovskite-based photoelectrodes that harvest sunlight to drive CO₂ reduction and water splitting, bridging photovoltaics with solar fuels
+          description: Using illuminated perovskite and silicon photoelectrodes to capture CO₂ with sunlight — lowering the energy cost of carbon capture
           icon: emoji/atom_symbol
           gradient: from-blue-400 to-indigo-600
           status: active
           topics:
             - Perovskite Photoelectrodes
-            - Solar Fuels
-            - Water Splitting
-            - Light-Driven CO₂ Reduction
+            - Light-Driven CO₂ Capture
+            - Photoelectrochemistry
             - Interface Engineering
+            - Carbon Capture
           cta:
             text: Learn More
             url: /research/photoelectrochemistry
@@ -133,21 +133,21 @@ sections:
   - block: cta-image-paragraph
     content:
       items:
-        - title: 'A Collaborative Research Environment'
-          text: |
-            Our lab combines materials chemistry, electrochemistry, and device physics in a single 120 m² facility at BGU. From ALD and thermal evaporation to CO₂ electrolyzers and FTIR spectroscopy, researchers have direct in-house access to the tools they need, complemented by priority access to the IKI Center for Nanoscience and Nanotechnology at BGU.
-          image: pexels-polina-tankilevitch-3735769.jpg
-          button:
-            text: 'Explore Our Facilities'
-            url: '/facilities/'
-
         - title: 'Graduate Training & Research'
           text: |
-            Group members work on open questions in solar energy conversion and CO₂ utilization — from self-healing semiconductors to electrocatalytic membranes. Alumni have continued to postdoctoral, faculty, and industry positions worldwide.
+            Students here take ownership of a real research question from day one — a CO₂-to-formate gas-diffusion electrode, a self-healing antimony-selenide absorber, a CO₂-capturing electrocatalytic membrane — and build the electrochemistry, thin-film growth, and microscopy skills to answer it. Several have co-authored papers before finishing their degree, and former members have gone on to postdoctoral positions and, in some cases, faculty roles.
           image: pexels-canvastudio-3153198.jpg
           button:
             text: 'See Open Positions'
             url: '/opportunities/'
+
+        - title: 'A Collaborative Research Environment'
+          text: |
+            Our 120 m² lab carries an idea from synthesis to working device under one roof: atomic-layer and thermal deposition, CO₂ electrolyzers, a multi-channel potentiostat bench, deep-level transient spectroscopy, and an FTIR spectrometer configured for in-situ electrochemistry — complemented by access to BGU's IKI Center for XPS and electron microscopy.
+          image: pexels-polina-tankilevitch-3735769.jpg
+          button:
+            text: 'Explore Our Facilities'
+            url: '/facilities/'
     design:
       css_class: "bg-white dark:bg-gray-800"
       spacing:
@@ -196,33 +196,6 @@ sections:
     design:
       view: citation
 
-  - block: collection
-    id: featured
-    content:
-      title: Featured Research
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-
-  - block: collection
-    id: news
-    content:
-      title: Lab News
-      page_type: blog
-      count: 3
-      filters:
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-      order: desc
-    design:
-      view: card
-      columns: 1
-
   - block: markdown
     content:
       title: Our Funders
@@ -232,37 +205,4 @@ sections:
       css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900 text-center"
       spacing:
         padding: ["4rem", 0, "4rem", 0]
-
-  - block: contact-info
-    id: contact
-    content:
-      title: Contact Us
-      subtitle: "Email is the best way to reach us."
-      visit_title: Visit Our Lab
-      connect_title: Connect With Us
-      address:
-        lines:
-          - Department of Chemical Engineering
-          - Ben-Gurion University of the Negev
-          - 1 Ben-Gurion Blvd.
-          - Be'er Sheva 8410501
-          - Israel
-      office_hours:
-        - "By appointment"
-      email: edrier@bgu.ac.il
-      social:
-        - icon: brands/linkedin
-          url: https://www.linkedin.com/in/eran-edri-8988b64/
-      prospective:
-        title: Prospective Members
-        text: We welcome inquiries from prospective PhD students, and from BGU Chemical Engineering undergraduates interested in research.
-        button:
-          text: View Open Positions
-          url: /opportunities
-      map_url: https://maps.google.com/?q=Ben-Gurion+University+of+the+Negev,+Be'er+Sheva,+Israel
-      show_form: false
-    design:
-      css_class: "bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800"
-      spacing:
-        padding: ["5rem", 0, "5rem", 0]
 ---

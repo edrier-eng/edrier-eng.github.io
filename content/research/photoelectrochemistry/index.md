@@ -1,32 +1,22 @@
 ---
 title: Photoelectrochemistry & Carbon Capture
 date: 2024-01-01
-summary: Engineering perovskite-based photoelectrodes that harvest sunlight to drive CO₂ reduction and water splitting, bridging photovoltaics with solar fuels.
-tags: [Photoelectrochemistry, Perovskite, Solar Fuels, CO2 Reduction, Water Splitting]
+summary: Using perovskite and silicon photoelectrodes to capture CO₂ with light — powering the energy-costly capture-and-release step photoelectrochemically instead of with heat or grid electricity.
+tags: [Photoelectrochemistry, Perovskite, Carbon Capture, CO2 Capture, Photoelectrodes]
 ---
 
 ## Overview
 
-Photoelectrochemical (PEC) cells integrate light absorption and electrochemical conversion in a single device, converting sunlight directly into chemical energy stored in fuels. Our group works on perovskite-based photoelectrodes — leveraging the exceptional light-harvesting properties of halide perovskites while addressing their well-known instability at semiconductor–electrolyte interfaces. The goal is to develop stable, efficient photoelectrodes for solar-driven CO₂ reduction and water splitting.
+Capturing CO₂ — from flue gas or directly from air — is energy-intensive, and much of that energy goes into releasing the captured CO₂ to regenerate the sorbent. We ask whether sunlight can supply that energy directly. Our group develops photoelectrochemical (PEC) cells in which an illuminated semiconductor electrode drives the CO₂ capture-and-release cycle, using light rather than heat or grid power for the costly step — a route to solar-powered carbon capture built on emerging thin-film absorbers.
 
 ## Research Directions
 
-**Perovskite photoelectrode design.** Halide perovskites are highly attractive absorbers for PEC applications due to their tunable bandgaps, high absorption coefficients, and long charge-carrier lifetimes. We engineer perovskite thin films and nanostructures as photocathodes, focusing on surface passivation strategies and protective overlayers that maintain photoactivity under aqueous operating conditions.
+**Photoelectrodes for light-driven CO₂ capture.** We design semiconductor photoelectrodes — including halide-perovskite and silicon-based absorbers — that turn absorbed sunlight into the electrochemical driving force needed to bind CO₂ and release it on demand, so the capture cycle runs on photogenerated charge.
 
-**Solar-driven CO₂ reduction.** We couple perovskite light absorbers with CO₂ reduction electrocatalysts in tandem photoelectrode configurations. Understanding how photogenerated charge carriers are delivered to the catalyst layer — and how competing reactions (H₂ evolution, back-oxidation) are suppressed — is a central challenge we address through both materials design and device engineering.
+**Interfaces and operating stability.** Emerging absorbers, halide perovskites especially, are sensitive to the aqueous, reactive environment of a capture cell. We study the semiconductor–electrolyte interface and develop protective layers and surface treatments that keep the photoelectrode working across many capture-and-release cycles.
 
-**Water splitting and hydrogen evolution.** In parallel, we study perovskite photocathodes for the hydrogen evolution reaction (HER), using water splitting as a model system to understand charge extraction, surface recombination, and the role of the semiconductor–electrolyte junction.
-
-**Stability and degradation mechanisms.** Perovskite instability in aqueous environments is the critical bottleneck for PEC applications. We study degradation pathways (ion migration, hydration, halide release) and develop encapsulation and surface-chemistry strategies to extend device lifetime.
-
-## Methods
-
-- Halide perovskite thin-film synthesis (spin-coating, vapor deposition)
-- Photoelectrochemical characterization (photocurrent–voltage, IPCE, EIS under illumination)
-- In-situ optical and X-ray characterization during operation
-- Atomic layer deposition of protective overlayers
-- Product analysis (GC, ¹³CO₂ isotope labeling)
+**Energetics of solar-powered capture.** We measure how efficiently absorbed photons translate into captured CO₂, identifying the loss pathways that set the energy cost of capture and guiding photoelectrode design.
 
 ## Broader Context
 
-Solar fuels from PEC devices represent a long-term route to scalable, storable renewable energy — and to direct solar-driven utilization of captured CO₂. Our work sits at the intersection of fundamental semiconductor physics and practical device engineering, with the goal of closing the gap between laboratory demonstrations and deployable solar-fuel systems.
+Carbon capture is widely seen as necessary to meet climate targets, but its energy demand is a central obstacle. Powering the capture step with sunlight — rather than fossil-derived heat or grid electricity — could cut that penalty and pair naturally with an intermittent renewable supply. Our work sits between semiconductor device physics and separation science, aiming to turn emerging photovoltaic materials into practical engines for solar-driven carbon capture.

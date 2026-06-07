@@ -1,5 +1,5 @@
 ---
-title: Join Us
+title: Join Us & Contact
 type: page
 ---
 
@@ -76,4 +76,12 @@ Send a single PDF to **edrier@bgu.ac.il** with subject line **"Position Applicat
 
 We respond to all applications within two weeks.
 
-*The lab is based at BGU, Be'er Sheva. The PI is on sabbatical at IREC Barcelona (2025–2026).*
+---
+
+## Contact
+
+The best way to reach us is by email: **[edrier@bgu.ac.il](mailto:edrier@bgu.ac.il)**.
+
+**Visit the lab:** Department of Chemical Engineering, Ben-Gurion University of the Negev, 1 Ben-Gurion Blvd., Be'er Sheva 8410501, Israel. [View on map](https://maps.google.com/?q=Ben-Gurion+University+of+the+Negev,+Be'er+Sheva,+Israel)
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/eran-edri-8988b64/)

@@ -17,14 +17,6 @@ A central challenge in thin-film photovoltaics is that defects — formed during
 
 **Thin-film device integration.** We translate materials insights into working solar cell devices, studying how interfaces between absorber, transport layers, and contacts determine open-circuit voltage losses and long-term stability.
 
-## Methods
-
-- Physical vapor deposition and solution-based thin-film synthesis
-- Time-resolved and temperature-dependent photoluminescence
-- Hall effect, space-charge-limited current, and admittance spectroscopy
-- Focused ion beam (FIB) cross-sectioning and STEM
-- Solar cell fabrication and characterization (J-V, EQE, light-soaking)
-
 ## Why It Matters
 
 Extending photovoltaic absorption into the SWIR enables tandem and multi-junction cell architectures with efficiencies beyond the single-junction Shockley–Queisser limit. Self-healing absorbers could simultaneously reduce degradation rates, addressing the two largest remaining barriers to terawatt-scale solar deployment.

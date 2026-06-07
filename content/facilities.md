@@ -61,7 +61,7 @@ Dedicated photovoltaics characterization setup: source-measure units (SMU), mult
 
 ## Shared Facilities (BGU)
 
-Through the [IKI Center for Nanoscience and Nanotechnology](https://in.bgu.ac.il/nano/en/), the lab has priority access to:
+Through the [IKI Center for Nanoscience and Nanotechnology](https://in.bgu.ac.il/nano/en/), the lab has access to:
 
 - **X-ray Photoelectron Spectroscopy (XPS)** — monochromatic Al Kα source, sputter depth profiling, charge neutralizer
 - **Scanning and Transmission Electron Microscopy (SEM/TEM)**
