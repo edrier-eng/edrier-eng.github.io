@@ -200,7 +200,7 @@ sections:
     content:
       title: Our Funders
       text: |
-        We gratefully acknowledge research funding from the [Israel Science Foundation (ISF)](https://www.isf.org.il), [Israel Ministry of Energy](https://www.gov.il/en/departments/ministry_of_energy), [Israel Innovation Authority](https://innovationisrael.org.il/en/), [Israel National Institute for Energy Storage (INES)](https://ines.org.il), the National Solar Energy Conversion Research Center, and the [Blechner Center for Industrial Catalysis and Process Development](https://in.bgu.ac.il/blechner) at BGU.
+        We gratefully acknowledge research funding from the [Israel Science Foundation (ISF)](https://www.isf.org.il), [Israel Ministry of Energy](https://www.gov.il/en/departments/ministry_of_energy), [Israel Innovation Authority](https://innovationisrael.org.il/en/), [Israel National Institute for Energy Storage (INES)](https://ines.org.il), and the National Solar Energy Conversion Research Center.
     design:
       css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900 text-center"
       spacing:
