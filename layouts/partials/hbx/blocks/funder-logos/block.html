@@ -1,0 +1,17 @@
+{{- /* Custom landing block: centered row of funder logos on white cards (works in light + dark). */ -}}
+{{- $logos := slice
+  (dict "src" "/logos/funders/isf.png" "alt" "Israel Science Foundation" "url" "https://www.isf.org.il")
+  (dict "src" "/logos/funders/moe.png" "alt" "Israel Ministry of Energy" "url" "https://www.gov.il/en/departments/ministry_of_energy")
+  (dict "src" "/logos/funders/innovation-authority.png" "alt" "Israel Innovation Authority" "url" "https://innovationisrael.org.il/en/")
+  (dict "src" "/logos/funders/ines.png" "alt" "Israel National Institute for Energy Storage" "url" "https://ines.org.il")
+  (dict "src" "/logos/funders/vatat.png" "alt" "Council for Higher Education (VATAT)" "url" "https://che.org.il/en/")
+-}}
+<section style="padding:0 1rem 3.5rem;">
+  <div style="max-width:1000px;margin:0 auto;display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:1.25rem;">
+  {{- range $logos }}
+    <a href="{{ .url }}" target="_blank" rel="noopener" aria-label="{{ .alt }}" style="display:inline-flex;">
+      <img src="{{ .src }}" alt="{{ .alt }}" loading="lazy" style="height:46px;width:auto;background:#fff;border-radius:8px;padding:8px 12px;box-shadow:0 1px 3px rgba(0,0,0,0.12);">
+    </a>
+  {{- end }}
+  </div>
+</section>

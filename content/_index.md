@@ -13,19 +13,17 @@ sections:
     id: about
     content:
       title: |
+        ![BGU](/logos/bgu-logo-round.png)
+
         **Edri Lab**
       text: |
-        Materials and devices for solar energy conversion, carbon capture, and utilization.
+        We are a group that designs materials and devices for solar energy conversion, carbon capture, and CO₂ utilization — where electrochemistry meets materials science.
 
         Department of Chemical Engineering · Ben-Gurion University of the Negev
       primary_action:
         text: Our Research
         url: '/research/'
         icon: hero/beaker
-      secondary_action:
-        text: Join the Lab
-        url: '/opportunities/'
-        icon: hero/user-group
     design:
       # For full-screen, add `min-h-screen` below
       css_class: ""
@@ -170,9 +168,14 @@ sections:
     content:
       title: Our Funders
       text: |
-        We gratefully acknowledge research funding from the [Israel Science Foundation (ISF)](https://www.isf.org.il), [Israel Ministry of Energy](https://www.gov.il/en/departments/ministry_of_energy), [Israel Innovation Authority](https://innovationisrael.org.il/en/), [Israel National Institute for Energy Storage (INES)](https://ines.org.il), and the National Solar Energy Conversion Research Center.
+        We gratefully acknowledge research funding from the [Israel Science Foundation (ISF)](https://www.isf.org.il), [Israel Ministry of Energy](https://www.gov.il/en/departments/ministry_of_energy), [Israel Innovation Authority](https://innovationisrael.org.il/en/), [Israel National Institute for Energy Storage (INES)](https://ines.org.il), the Council for Higher Education (VATAT), and the National Solar Energy Conversion Research Center.
     design:
       css_class: "bg-gradient-to-b from-white to-gray-50 dark:from-gray-800 dark:to-gray-900 text-center"
       spacing:
-        padding: ["4rem", 0, "4rem", 0]
+        padding: ["4rem", 0, "2rem", 0]
+
+  - block: funder-logos
+    design:
+      spacing:
+        padding: ["0", 0, "0", 0]
 ---
