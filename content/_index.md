@@ -9,42 +9,13 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: hero
+  - block: hero-logos
     id: about
     content:
-      title: |
-        ![BGU](/logos/bgu-logo-round.png)
-
-        **Edri Lab**
-      text: |
-        We are a group that designs materials and devices for solar energy conversion, carbon capture, and CO₂ utilization — where electrochemistry meets materials science.
-
-        Department of Chemical Engineering · Ben-Gurion University of the Negev
-      primary_action:
-        text: Our Research
-        url: '/research/'
-        icon: hero/beaker
+      title: ''
     design:
-      # For full-screen, add `min-h-screen` below
-      css_class: ""
-      background:
-        # Option A: Modern gradient mesh (recommended for 2025/2026)
-        gradient_mesh:
-          enable: true
-          style: "waves"
-          animation: "pulse"
-          intensity: "medium"
-          colors:
-            - "primary-500/30"
-            - "blue-600/20"
-            - "indigo-600/15"
-        
-        # Option B: Team/lab image (uncomment to use instead of gradient mesh)
-        # image:
-        #   filename: "team-lab-hero.jpg"
-        #   filters:
-        #     brightness: 0.6
-        #     contrast: 1.1
+      spacing:
+        padding: ["0", 0, "0", 0]
 
   - block: stats
     content:

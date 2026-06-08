@@ -109,7 +109,7 @@ hugoblox:
     style: minimal # minimal | columns | centered
     language_switcher: true
     # Custom footer text (HTML supported)
-    text: "<span style='display:inline-flex;align-items:center;justify-content:center;gap:1rem;margin:0.75rem 0;'><a href='https://www.bgu.ac.il/en/' target='_blank' rel='noopener'><img src='/logos/bgu-72.png' alt='Ben-Gurion University of the Negev' style='height:48px;width:auto;background:#fff;border-radius:6px;padding:5px;'></a><a href='https://in.bgu.ac.il/engn/che/Pages/default.aspx' target='_blank' rel='noopener'><img src='/logos/chemeng.png' alt='Department of Chemical Engineering, BGU' style='height:48px;width:auto;background:#fff;border-radius:6px;padding:5px;'></a></span>"
+    text: "<a href='https://www.bgu.ac.il/en/' target='_blank' rel='noopener'><img src='/logos/bgu-72.png' alt='Ben-Gurion University of the Negev' style='height:48px;width:auto;background:#fff;border-radius:6px;padding:5px;margin:0.75rem auto;display:block;'></a>"
 
   # ────────────────────────────────────────────────────────────────────────────
   # COPYRIGHT
