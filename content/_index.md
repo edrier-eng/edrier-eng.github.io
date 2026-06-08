@@ -136,7 +136,7 @@ sections:
         - title: 'Graduate Training & Research'
           text: |
             Students here take ownership of a real research question from day one — a CO₂-to-formate gas-diffusion electrode, a self-healing antimony-selenide absorber, a CO₂-capturing electrocatalytic membrane — and build the electrochemistry, thin-film growth, and microscopy skills to answer it. Several have co-authored papers before finishing their degree, and former members have gone on to postdoctoral positions and, in some cases, faculty roles.
-          image: pexels-canvastudio-3153198.jpg
+          image: graduate-training.jpg
           button:
             text: 'See Open Positions'
             url: '/opportunities/'
@@ -144,7 +144,7 @@ sections:
         - title: 'A Collaborative Research Environment'
           text: |
             Our 120 m² lab carries an idea from synthesis to working device under one roof: atomic-layer and thermal deposition, CO₂ electrolyzers, a multi-channel potentiostat bench, deep-level transient spectroscopy, and an FTIR spectrometer configured for in-situ electrochemistry — complemented by access to BGU's IKI Center for XPS and electron microscopy.
-          image: pexels-polina-tankilevitch-3735769.jpg
+          image: collaborative-research.jpg
           button:
             text: 'Explore Our Facilities'
             url: '/facilities/'
