@@ -15,7 +15,7 @@ Electrochemical reduction of CO₂ (CO₂RR) offers a pathway to close the carbo
 
 **Electrode and interface engineering.** The interface between catalyst, electrolyte, and CO₂ supply is a critical bottleneck in CO₂RR. We design gas-diffusion electrode architectures and study how local pH, CO₂ concentration, and ion transport influence reaction pathways and product distribution.
 
-**Coupled CO₂ capture and conversion.** We integrate CO₂ capture directly with electrochemical conversion to avoid the energy lost in separate capture-and-release cycles. This is the basis of our eCatMem concept — a dual-functional membrane that performs CO₂ capture and electrocatalytic reduction within a single membrane-electrode assembly (Sadhujan et al., *ChemSusChem* 2025).
+**Coupled CO₂ capture and conversion.** We integrate CO₂ capture directly with electrochemical conversion to avoid the energy lost in separate capture-and-release cycles. This is the basis of our eCatMem concept — a dual-functional membrane that performs CO₂ capture and electrocatalytic reduction within a single membrane-electrode assembly (Sadhujan et al. *ChemSusChem* **2025**, *18* (17), e202500474).
 
 ## Why It Matters
 

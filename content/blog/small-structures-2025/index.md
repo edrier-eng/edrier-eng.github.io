@@ -11,4 +11,4 @@ summary: Our invited paper in Small Structures shows that antimony plays a dual 
 
 Our new paper in *Small Structures* reports that antimony incorporation into bismuth-based gas diffusion electrodes enhances durability under sustained CO₂ electroreduction conditions. Led by Yakov Shitrit and Tomer Karmel, in collaboration with Maytal Caspary Toroker's group at the Technion.
 
-DOI: [10.1002/sstr.202500505](https://doi.org/10.1002/sstr.202500505)
+**Citation:** Shitrit, Y.; Karmel, T.; Pachmanov Dvir, S.; Rubinstein, A. A.; Arazi, Z.; Maman, N.; Caspary Toroker, M.; Udachyan, I.; Cohen, Y. S.; Edri, E. The Dual Role of Antimony in Enhancing the Durability of Bismuth-Based CO₂ Reduction Gas Diffusion Electrodes. *Small Struct.* **2026**, *7* (1), e202500505. [https://doi.org/10.1002/sstr.202500505](https://doi.org/10.1002/sstr.202500505)

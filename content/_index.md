@@ -122,18 +122,25 @@ sections:
       spacing:
         padding: ["4rem", 0, "4rem", 0]
 
-  - block: collection
+  - block: markdown
     id: publications
     content:
       title: Selected Publications
-      text: ''
-      filters:
-        folders:
-          - publication
-        featured_only: true
-      count: 5
+      text: |
+        1. Shitrit, Y.; Karmel, T.; Pachmanov Dvir, S.; Rubinstein, A. A.; Arazi, Z.; Maman, N.; Caspary Toroker, M.; Udachyan, I.; Cohen, Y. S.; Edri, E. The Dual Role of Antimony in Enhancing the Durability of Bismuth-Based CO₂ Reduction Gas Diffusion Electrodes. *Small Struct.* **2026**, *7* (1), e202500505. [https://doi.org/10.1002/sstr.202500505](https://doi.org/10.1002/sstr.202500505)
+
+        2. Sadhujan, S.; Shitrit, Y.; Rajput, S.; Udachyan, I.; Friedman, T.; Pevzner, S.; Sharma, C. P.; Arnusch, C. J.; Cohen, Y. S.; Edri, E. A Dual-Functional Membrane for CO₂ Capture and Electrocatalytic Reduction. *ChemSusChem* **2025**, *18* (17), e202500474. [https://doi.org/10.1002/cssc.202500474](https://doi.org/10.1002/cssc.202500474)
+
+        3. Vashishtha, A.; Balakrishnan, S. K.; Dror, Y.; Kumar, J.; Parambil, P. C.; Edri, E. What Can Chemical Bonding Tell Us about Photoinduced Phase Transition Reactions in Inorganic Semiconductors? Insight from Bismuth–Antimony Selenide. *Inorg. Chem.* **2024**, *63* (47), 22492–22501. [https://doi.org/10.1021/acs.inorgchem.4c02630](https://doi.org/10.1021/acs.inorgchem.4c02630)
+
+        4. Balakrishnan, S. K.; Parambil, P. C.; Houben, L.; Asher, M.; Yaffe, O.; Edri, E. Revealing Hidden Phases and Self-Healing in Antimony Trichalcogenides and Chalcoiodides. *Cell Rep. Phys. Sci.* **2023**, *4* (3).
+
+        5. Balakrishnan, S. K.; Parambil, P. C.; Edri, E. Mechanistic Insight into the Topotactic Transformation of Trichalcogenides to Chalcohalides. *Chem. Mater.* **2022**, *34* (7), 3468–3478.
+
+        [→ All publications](/publication/)
     design:
-      view: citation
+      spacing:
+        padding: ["3rem", 0, "3rem", 0]
 
   - block: markdown
     content:
